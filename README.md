@@ -1,0 +1,1 @@
+# laravel-scout-elasticsearc-504
